@@ -1,0 +1,7 @@
+# Pinned to the EXACT versions installed in CommuniGate's own .venv on 2026-10-14.
+# A probe on different versions is a probe of different software.
+fastapi==0.141.1
+uvicorn==0.53.0
+starlette==1.7.0
+pydantic==2.13.5
+anyio==4.15.0
